@@ -7,10 +7,10 @@ GitHub: **github.com/gassaloglu**
 
 • **Programming languages:**
 > - _Proficient_: Java, Python, C#
- - _Intermediate_: JavaScript
- -_Familiar_: C, C++
+> - _Intermediate_: JavaScript
+> -_Familiar_: C, C++
 • **Tools:**
- - GitHub
+> - GitHub
  - Git
 • **Others:**
  - Adobe Photoshop
