@@ -6,12 +6,12 @@ Personal Web Site: **gassaloglu.github.io**\
 GitHub: **github.com/gassaloglu**
 
 • **Programming languages:**
-> - _Proficient_: Java, Python, C#
-> - _Intermediate_: JavaScript
-> -_Familiar_: C, C++ \
+ - _Proficient_: Java, Python, C#
+ - _Intermediate_: JavaScript
+ -_Familiar_: C, C++ \
 • **Tools:**
-> - GitHub
-> - Git
+ - GitHub
+ - Git
 • **Others:**
  - Adobe Photoshop
  - Adobe Premiere Pro
