@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 
  I am Yusuf. I was born on March 13, 2001. I have been involved with computers since I was 5 years old. I am a 3. rd year computer engineering student at [**Dokuz Eylul University**](https://www.deu.edu.tr/) and I am working as a trainee at [**Garanti BBVA Technology**](https://www.garantibbvateknoloji.com.tr/). I am interested in artificial intelligence and encryption and decryption techniques. I like playing the guitar and watching theatre.
 
-[**Web Site**](gassaloglu.github.io)\
-[**LinkedIn**](linkedin.com/in/gassaloglu/)\
-Email: **yusufgassaloglu00@gmail.com**\
+• [**Web Site**](gassaloglu.github.io)\
+• [**LinkedIn**](linkedin.com/in/gassaloglu/)\
+• [**Email**](yusufgassaloglu00@gmail.com)\
 
 # **Skills:**
  **Programming Languages**\
