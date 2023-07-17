@@ -23,12 +23,12 @@ Email: **yusufgassaloglu00@gmail.com**
 • Selenium Library\
 • HTML, CSS\
 
-# Languages:\
+# Languages:
 • Turkish – Native \
 • English – Full Professional proficiency \
 • German – Elementary proficiency \
 • Arabic – Limited Working Proficiency\
-# Extras: \
+# Extras: 
 **HOBBIES:**\
 • Playing musical instruments \
 • Swim \
@@ -40,7 +40,7 @@ Email: **yusufgassaloglu00@gmail.com**
 **SOCIAL SKILLS:** \
 • Project management \
 • Team working \
-• Presentation skills\
+• Presentation skills
 
 
 
