@@ -4,8 +4,8 @@ Hey, I’d like to introduce myself. I am Yusuf. I was born on March 13, 2001. I
 
 Personal Web Site: **gassaloglu.github.io**\
 GitHub: **github.com/gassaloglu**
-
-• **Programming languages:**
+<p>
+ • **Programming languages:**
  - _Proficient_: Java, Python, C#
  - _Intermediate_: JavaScript
  -_Familiar_: C, C++\
@@ -17,6 +17,8 @@ GitHub: **github.com/gassaloglu**
  - Adobe Premiere Pro
  - Selenium Library
  - HTML, CSS
+
+</p>
 
 <!--
 **gassaloglu/gassaloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
