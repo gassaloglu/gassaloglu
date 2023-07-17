@@ -7,7 +7,6 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 
 • [**Web Site**](gassaloglu.github.io)\
 • [**LinkedIn**](linkedin.com/in/gassaloglu/)\
-• [**Email**](yusufgassaloglu00@gmail.com)\
 
 # **Skills:**
  **Programming Languages**\
