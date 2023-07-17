@@ -10,37 +10,37 @@ LinkedIn: **linkedin.com/in/gassaloglu/**
 Email: **yusufgassaloglu00@gmail.com**
 
 # **Skills:**
- **Programming Languages**
- • _Proficient_: Java, Python, C#
- • _Intermediate_: JavaScript
+ **Programming Languages**\
+ • _Proficient_: Java, Python, C#\
+ • _Intermediate_: JavaScript\
 • _Familiar_: C, C++\
-**Tools:**
- • GitHub
- • Git
-**Others:**
-• Adobe Photoshop
-• Adobe Premiere Pro
-• Selenium Library
-• HTML, CSS
+**Tools:**\
+ • GitHub\
+ • Git\
+**Others:**\
+• Adobe Photoshop\
+• Adobe Premiere Pro\
+• Selenium Library\
+• HTML, CSS\
 
-# Languages:
-• Turkish – Native 
-• English – Full Professional proficiency 
-• German – Elementary proficiency 
-• Arabic – Limited Working Proficiency
-# Extras: 
-**HOBBIES:**
-• Playing musical instruments 
-• Swim 
-• Watching theatre 
-**INTERESTS:**
-• Artificial intelligence 
-• Cryptography 
-• Aviation 
-**SOCIAL SKILLS:** 
-• Project management 
-• Team working 
-• Presentation skills
+# Languages:\
+• Turkish – Native \
+• English – Full Professional proficiency \
+• German – Elementary proficiency \
+• Arabic – Limited Working Proficiency\
+# Extras: \
+**HOBBIES:**\
+• Playing musical instruments \
+• Swim \
+• Watching theatre \
+**INTERESTS:**\
+• Artificial intelligence \
+• Cryptography \
+• Aviation \
+**SOCIAL SKILLS:** \
+• Project management \
+• Team working \
+• Presentation skills\
 
 
 
