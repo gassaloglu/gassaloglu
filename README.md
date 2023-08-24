@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 • Adobe Photoshop\
 • Adobe Premiere Pro\
 • Selenium Library\
-• HTML, CSS
+
 
 # Languages:
 • Turkish – Native \
