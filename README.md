@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 **Others:**\
 • Adobe Photoshop\
 • Adobe Premiere Pro\
-• Selenium Library\
+• Selenium Library
 
 
 # Languages:
