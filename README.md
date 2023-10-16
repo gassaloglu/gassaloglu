@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 
 # Who Am I ?
 
- I am Yusuf. I was born on March 13, 2001. I have been involved with computers since I was 5 years old. I am a 3. rd year computer engineering student at [**Dokuz Eylul University**](https://www.deu.edu.tr/) and I am working as a cryptography solutions support assistant at [**Garanti BBVA Technology**](https://www.garantibbvateknoloji.com.tr/). I am interested in artificial intelligence and cryptography. I like playing the guitar and watching theatre.
+ I am Yusuf. I was born on March 13, 2001. I am a 3. rd year computer engineering student at [**Dokuz Eylul University**](https://www.deu.edu.tr/) and I am working as Security & Software Engineer Intern at [**Garanti BBVA Technology**](https://www.garantibbvateknoloji.com.tr/). I am interested in artificial intelligence and cryptography.
 
 • [**Web Site**](https://gassaloglu.github.io/)\
 • [**LinkedIn**](https://www.linkedin.com/in/gassaloglu/)
@@ -12,15 +12,7 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
  **Programming Languages**\
  • _Proficient_: Java, Python, C#\
  • _Intermediate_: JavaScript\
-• _Familiar_: C, C++\
-**Tools:**\
- • GitHub\
- • Git\
-**Others:**\
-• Adobe Photoshop\
-• Adobe Premiere Pro\
-• Selenium Library
-
+• _Familiar_: C
 
 # Languages:
 • Turkish – Native \
@@ -28,10 +20,6 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 • German – Elementary proficiency \
 • Arabic – Limited Working Proficiency
 # Extras: 
-**HOBBIES:**\
-• Playing musical instruments \
-• Swim \
-• Watching theatre \
 **INTERESTS:**\
 • Artificial intelligence \
 • Cryptography \
