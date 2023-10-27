@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 
 # Who Am I ?
 
- I am Yusuf. I was born on March 13, 2001. I am a 3. rd year computer engineering student at [**Dokuz Eylul University**](https://www.deu.edu.tr/) and I am working as Security & Software Engineer Intern at [**Garanti BBVA Technology**](https://www.garantibbvateknoloji.com.tr/). I am interested in artificial intelligence and cryptography.
+ I am Yusuf. I am a 3. rd year computer engineering student at [**Dokuz Eylul University**](https://www.deu.edu.tr/) and I am working as Security & Software Engineer Intern at [**Garanti BBVA Technology**](https://www.garantibbvateknoloji.com.tr/). I am interested in artificial intelligence and cryptography.
 
 • [**Web Site**](https://gassaloglu.github.io/)\
 • [**LinkedIn**](https://www.linkedin.com/in/gassaloglu/)
