@@ -8,12 +8,6 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 • [**Web Site**](https://gassaloglu.github.io/)\
 • [**LinkedIn**](https://www.linkedin.com/in/gassaloglu/)
 
-# **Skills:**
- **Programming Languages**\
- • _Proficient_: Java, Python, C#\
- • _Intermediate_: JavaScript\
-• _Familiar_: C
-
 # Languages:
 • Turkish – Native \
 • English – Full Professional proficiency \
