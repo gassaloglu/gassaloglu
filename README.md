@@ -17,11 +17,7 @@ https://www.youtube.com/watch?v=0zxHyFHaKdI
 **INTERESTS:**\
 • Artificial intelligence \
 • Cryptography \
-• Aviation \
-**SOCIAL SKILLS:** \
-• Project management \
-• Team working \
-• Presentation skills
+• Aviation 
 
 
 
